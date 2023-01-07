@@ -1,0 +1,33 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-packchat-dev-93547-authRole",
+      "UnauthRoleArn": "arn:aws:iam::552673436980:role/amplify-packchat-dev-93547-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::552673436980:role/amplify-packchat-dev-93547-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-packchat-dev-93547-deployment",
+      "UnauthRoleName": "amplify-packchat-dev-93547-unauthRole",
+      "StackName": "amplify-packchat-dev-93547",
+      "StackId": "arn:aws:cloudformation:us-east-1:552673436980:stack/amplify-packchat-dev-93547/94272540-8e98-11ed-bb4e-0a7361ba5763",
+      "AmplifyAppId": "d2y5qk3snshagq"
+    },
+    "categories": {
+      "auth": {
+        "packchatd0b96471": {
+          "userPoolId": "us-east-1_2JouwovYC",
+          "userPoolName": "packbrain-staging",
+          "webClientId": "6dirb4th1nnb152msm75l7d7ok",
+          "nativeClientId": "4ipq2lssmensm4e18eua00limb",
+          "identityPoolId": "us-east-1:df713456-0ca5-4b8b-87dd-1f2a8c1faa99",
+          "identityPoolName": "testAuthIdentityPool__staging",
+          "allowUnauthenticatedIdentities": false,
+          "authRoleArn": "arn:aws:iam::552673436980:role/amplify-packbrain-staging-54032-authRole",
+          "authRoleName": "amplify-packbrain-staging-54032-authRole",
+          "unauthRoleArn": "arn:aws:iam::552673436980:role/amplify-packbrain-staging-54032-unauthRole",
+          "unauthRoleName": "amplify-packbrain-staging-54032-unauthRole",
+          "googleClientId": "40064659818-s6kqa7nvjsnfad0am3nj0e1fll4fef62.apps.googleusercontent.com"
+        }
+      }
+    }
+  }
+}
